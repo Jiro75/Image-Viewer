@@ -45,9 +45,7 @@ The system's comprehensive feature set and user-friendly interface make advanced
 
 ## Project Video 📽️
 
-
-https://github.com/user-attachments/assets/26dcd58c-526a-4b65-af22-dfef805746b2
-
+https://github.com/user-attachments/assets/d466e42d-5286-449f-a6d8-7d8b8195d8ed
 
 ## Contributors 🦸‍♂️
 - Mostafa Hany
